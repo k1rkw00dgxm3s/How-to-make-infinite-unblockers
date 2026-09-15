@@ -1,4 +1,4 @@
 Step 1: Go to terminal app on computer
 Step 2: Do this command in terminal and click enter: git clone https://github.com/username/projectname
 Step 3: Do these commands then click enter: cd projectname, npm install, npm start
-Then it will say running on localhost then you copy the server name and paste it into browser then your project will show up!
+Then it will say running on localhost then you copy the localhost:8000 and paste it into browser then your project will show up!
